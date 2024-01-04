@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.188" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/background.xml" value="0.1465" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.1355" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_czesci.xml" value="0.3585" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_kierowca.xml" value="0.255" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_kierowcy.xml" value="0.3675" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3675" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_maszyny.xml" value="0.3" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_tankowanie.xml" value="0.3" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_wymiany.xml" value="0.3" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_zamawianie.xml" value="0.3385" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/ic_zbiorniki.xml" value="0.3" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/drawable/textborder.xml" value="0.3675" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_czesci.xml" value="0.22" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_dodaj_wymiane_czesci.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_dostawy_paliwa.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_karta_pracownika.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_kierowcy.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_kierowcy_karta_pracownika.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_maszyna.xml" value="0.26806327490380505" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_maszyny.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_oleje.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_update_kierowca1.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_update_maszyna.xml" value="0.17216882574174677" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_update_przeglad.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_wymiany.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_zamow.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_zatankuj.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/activity_zbiorniki.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/dodaj_dostawe.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/dodaj_tankowanie.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/dodaj_wymiane_czesci.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/dodaj_wymiane_oleju.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/dodaj_zamowienie.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/lista_dostawy.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/lista_kierowcy.xml" value="0.2539546814878153" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/lista_kierowcy1.xml" value="0.24652455977757182" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/lista_zbiorniki.xml" value="0.28815733219324496" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/listview_maszyny.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/masyzny_recycle.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/maszyny_recycle.xml" value="0.1" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/recycle_czesci.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/recycle_maszyny.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/recycle_oleje.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/recycle_tankowanie.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/recycle_zamowienia.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/test_view.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/tesyt.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/update_kierowca.xml" value="0.25" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/update_maszyna.xml" value="0.33" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/Gospodarstwo/app/src/main/res/layout/update_zamowienie.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

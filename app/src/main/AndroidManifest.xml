@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gospodarstwo">
+    <!-- Danie możliwości łączenia się z internetem -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Gospodarstwo">
+        <activity
+            android:name=".UpdatePrzeglad"
+            android:exported="false" />
+        <activity
+            android:name=".DodajWymianeOleju"
+            android:exported="false" />
+        <activity
+            android:name=".DodajWymianeCzesci"
+            android:exported="false" />
+        <activity
+            android:name=".OlejeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CzesciActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateZamowienie"
+            android:exported="false" />
+        <activity
+            android:name=".DodajZamowienie"
+            android:exported="false" />
+        <activity
+            android:name=".DodajTankowanie"
+            android:exported="false" />
+        <activity
+            android:name=".DodajDostawe"
+            android:exported="false" />
+        <activity
+            android:name=".DostawyPaliwaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateKierowca"
+            android:exported="false" />
+        <activity
+            android:name=".MaszynyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KartaPracownikaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KierowcyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ZamowActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ZatankujActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WymianyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ZbiornikiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
